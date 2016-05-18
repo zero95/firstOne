@@ -1,0 +1,76 @@
+<section  spa-widget="scroll">
+	<div class="main">
+		<header>
+			<ul>
+				<li>识装</li>
+				<li class="yo-ico">&#xe611</li>
+				<li class="yo-ico">&#xf00b5;</li>
+			</ul>
+		</header>
+		<div class="swiper-container">
+		    <div class="swiper-wrapper">
+		        <div class="swiper-slide">
+		        	<img src="/DS/images/swiper1.jpg"/>
+		        </div>
+		        <div class="swiper-slide">
+		        	<img src="/DS/images/swiper2.jpg"/>
+		        </div>
+		        <div class="swiper-slide">
+		        	<img src="/DS/images/swiper3.jpg"/>
+		        </div>
+		        <div class="swiper-slide">
+		        	<img src="/DS/images/swiper4.jpg"/>
+		        </div>   
+		    </div>
+		    <!-- 分页器 -->
+		    <div class="swiper-pagination"></div>
+		</div>
+		<nav>
+			<ul>
+				<li class="active">精选</li>
+				<li>广场</li>
+			</ul>
+		</nav>
+		<section>
+				<div class="personThem">
+					<span>
+						<b><img src="/DS/images/1.jpg"/></b>
+						<em>扒扒拉<i><img src="/DS/images/tubiao.jpg"/></i></em>
+					</span>
+					<span>
+						<i>未知|9分钟</i>
+					</span>
+				</div>
+				<div class="showContent">
+					<span>
+						<div class="box">
+							<div class="imgL"></div>
+							<div class="imgR"></div>
+						</div>
+						<div>
+							<div>
+								<h3>
+									不到1500元心型项链的诞生是为了对女生暴力说No！
+								</h3>
+								<p>
+									<span>&#xe612;</span>
+									<span>&#xe641;</span>
+									<span>&#x343e;</span>
+								</p>
+							</div>
+						</div>
+					</span>
+				</div>
+		</section>
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+

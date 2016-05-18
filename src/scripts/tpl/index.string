@@ -1,0 +1,18 @@
+<div class="m-index">
+  <div class="m-index-container"></div>
+  <footer>
+    <ul>
+      <li class="active" action-type="tap.switch" data-tag="home">
+        <i class="yo-ico">&#xe787;</i>
+        <b>首页</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe600;</i>
+      </li>
+      <li  action-type="tap.switch" data-tag="my">
+        <i class="yo-ico">&#xe601;</i>
+        <b>我</b>
+      </li>
+    </ul>
+  </footer>
+</div>
